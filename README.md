@@ -28,7 +28,7 @@
 
 ### 📄 My Resume
 
-[![Resume](https://img.shields.io/static/v1?label=&message=Resume&color=39d353)](Romanchuk_Resume.pdf)
+[![Resume](https://img.shields.io/static/v1?label=&message=Resume (ru)&color=39d353)](CV_MLops.pdf)
 
 ###
 
