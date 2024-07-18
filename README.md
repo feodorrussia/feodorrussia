@@ -18,6 +18,8 @@
 <img src="https://komarev.com/ghpvc/?username=feodorrussia&style=flat-square&color=blue" alt=""/>
 </div>
 
+---
+
 ### :man_technologist: About Me :
 
 - :telescope: I’m working as Analytic & Data Scientist and contributing to ML and data processing algorithms for building automatic diagnostic systems.
