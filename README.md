@@ -28,7 +28,7 @@
 
 ### 📄 My Resume
 
-[![Resume](https://img.shields.io/static/v1?label=&message=Resume (ru)&color=39d353)](CV_MLops.pdf)
+[![Resume](https://img.shields.io/static/v1?label=&message=Resume%20(ru)&color=39d353)](CV_MLops.pdf)
 
 ###
 
