@@ -1,24 +1,18 @@
 <div id="header" align="center">
-<!--     <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/> -->
-
-<h1>
-  Hello there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-
-<div id="badges">
-  <a href="https://t.me/teddybell_0_o">
-    <img src="https://img.shields.io/badge/Telegram-white?style=for-the-badge&logo=telegram&logoColor=229ED9" alt="Telegram Badge"/>
-  </a>
-  <a href="https://www.kaggle.com/teddybelous">
-    <img src="https://img.shields.io/badge/Kaggle-20beff?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge"/>
-  </a>
+  <div align="center">
+    <img height="300" src="assets/home-pic1.gif" />
+  </div>
+  <h1>
+    Hello there
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+     I'm Teddy
+  </h1>
+  <h3>
+    Data Analytic and ML Engineer
+  </h3>
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=feodorrussia&style=flat-square&color=blue" alt=""/>
-</div>
-
----
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=feodorrussia" alt="feodorrussia" /></a> </p>
 
 ### :man_technologist: About Me :
 
@@ -29,6 +23,19 @@
 - :zap: In my free time, I do cheerleading and volleyball.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Teddy-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/teddybell_0_o)
+
+---
+
+### 📄 My Resume
+
+[![Resume](https://img.shields.io/static/v1?label=&message=Resume&color=39d353)](Romanchuk_Resume.pdf)
+
+###
+
+<p align="center">
+ <img width="600" src="assets/github-snake.svg" alt="snake"/>
+  <!-- github-snake.svg stats-pic.gif -->
+</p>
 
 ---
 
@@ -60,7 +67,31 @@
 
 ### :fire: My Stats:
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=feodorrussia)](https://git.io/streak-stats)
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=feodorrussia&locale=en&mode=daily&theme=dark&border_radius=5&order=3" height="220" alt="streak graph" />
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=feodorrussia&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=feodorrussia&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=3" height="150" alt="languages graph" />
+</div>
+
+---
+
+<div id="footer" align="center">
+
+<div id="badges">
+  <a href="https://t.me/teddybell_0_o">
+    <img src="https://img.shields.io/badge/Telegram-white?style=for-the-badge&logo=telegram&logoColor=229ED9" alt="Telegram Badge"/>
+  </a>
+  <a href="https://www.kaggle.com/teddybelous">
+    <img src="https://img.shields.io/badge/Kaggle-20beff?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge"/>
+  </a>
+</div>
+
+<img src="https://komarev.com/ghpvc/?username=feodorrussia&style=flat-square&color=blue" alt=""/>
+<!--     
+<div><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/> --></div>
+</div>
 
