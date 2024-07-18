@@ -33,7 +33,7 @@
 ###
 
 <p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
+ <img width="700" src="assets/github-snake.svg" alt="snake"/>
   <!-- github-snake.svg stats-pic.gif -->
 </p>
 
@@ -68,13 +68,13 @@
 ### :fire: My Stats:
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=feodorrussia&locale=en&mode=daily&theme=dark&border_radius=5&order=3" height="220" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com?user=feodorrussia&locale=en&mode=daily&border_radius=5&order=3" height="220" alt="streak graph" />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=feodorrussia&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=3" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=feodorrussia&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&hide_border=false&order=1" height="150" alt="languages graph" />
 </div>
 
 ---
